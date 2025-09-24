@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author drman
+ *
+ */
+module DataStructure {
+}
